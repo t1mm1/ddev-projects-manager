@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g fill="#bebebe">
+    <rect x="1" y="9" width="4" height="4" rx="0.8"/>
+    <rect x="6" y="9" width="4" height="4" rx="0.8"/>
+    <rect x="11" y="9" width="4" height="4" rx="0.8"/>
+    <rect x="3.5" y="4" width="4" height="4" rx="0.8"/>
+    <rect x="8.5" y="4" width="4" height="4" rx="0.8"/>
+    <rect x="0" y="14" width="16" height="1.2" rx="0.6"/>
+  </g>
+</svg>

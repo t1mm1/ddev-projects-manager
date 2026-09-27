@@ -1,0 +1,26 @@
+.ddev-count {
+  padding-left: 4px;
+}
+
+.ddev-row {
+  spacing: 8px;
+}
+
+.ddev-dot {
+  font-size: 0.9em;
+}
+
+.ddev-status {
+  padding-left: 6px;
+}
+
+.ddev-search {
+  min-width: 260px;
+  margin: 2px 0;
+}
+
+.popup-sub-menu.ddev-submenu {
+  background-color: rgba(127, 127, 127, 0.08);
+  border-radius: 8px;
+  margin: 2px 0 6px 0;
+}

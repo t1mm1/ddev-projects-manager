@@ -1,0 +1,7 @@
+{
+  "uuid": "ddev-projects-manager@pkasianov",
+  "name": "DDEV Projects Manager",
+  "description": "Shows DDEV projects with container status and start/stop/restart controls.",
+  "shell-version": ["45", "46", "47", "48"],
+  "url": "https://github.com/t1mm1/ddev-projects-manager"
+}
